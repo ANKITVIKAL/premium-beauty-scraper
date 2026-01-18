@@ -1,0 +1,15 @@
+{
+  "name": "premium-beauty-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for Premium Beauty News using Playwright",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": ["scraping", "playwright", "web-scraper"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
